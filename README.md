@@ -1,2 +1,2 @@
 # bostock
-Webpage inspired by Mike Bostock' stylesheets
+Webpage inspired by Mike Bostock's stylesheets
